@@ -3,7 +3,6 @@
 GrowSkill is an e-learning platform designed to offer a wide range of paid online courses in Baking, Makeup, and Handicrafts. It provides users with the opportunity to enhance their skills and knowledge through live classes conducted by specialized instructors.
 
 ## Name: Bhoop Singh
-## Phone: 7300893842
 ## Email: bhoopsinghyadav26@gmail.com
 ## Github:https://github.com/bhupirao
 ## LinkedIn:linkedin.com/in/bhoopsingh26/
